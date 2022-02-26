@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is [Mark Derry](https://www.linkedin.com/in/mark-derry-44065418/) and I am an [engineer](https://www.usask.ca/), data scientist and a [photographer](http:\\markderry.com).
+My name is [Mark Derry](https://www.linkedin.com/in/mark-derry-44065418/) and I am an [engineer](https://www.usask.ca/), data scientist and a [photographer](http://www.markderry.com).
 
 My work is focused on enterprise data science, data engineering, data visualization, and data science education. Some projects that I am currently working on include:
 
