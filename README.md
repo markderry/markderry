@@ -1,6 +1,10 @@
 ## Hi there 👋
 My name is [Mark Derry](https://www.linkedin.com/in/mark-derry-44065418/) and I am a manager of data with ARC Resources in Calgary, Alberta. I have worked in the oil and gas industry for over 19 years in various roles including reservoir engineering, production engineering, data engineering, data science, and data management. I have a B.Sc. in Mechanical Engineering from the University of Saskatchewan. I am also a Professional Engineer in the province of Alberta.
 
+## How to Work With Me
+
+[How to work with me](working_with_me.md)
+
 ## My Work
 My work is focused on enterprise data, data science, data engineering, data visualization, and data science education. Some projects that I am currently working on include:
 
