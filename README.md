@@ -9,4 +9,4 @@ My work is focused on enterprise data science, data engineering, data visualizat
 - Enterprise data science tools, infrastructure, standards and best practices
 - Executive education on data science
 
-The bulk of my work happens in a corporate setting on a private git repo so on here you will see many of my side projects in various states of development.
+
